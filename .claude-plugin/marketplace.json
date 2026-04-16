@@ -1,0 +1,20 @@
+{
+  "name": "misteryo",
+  "owner": {
+    "name": "Akaki Neparidze"
+  },
+  "metadata": {
+    "description": "Hurricane — opinionated Claude Code workflow plugin. Project onboarding, adaptive dev pipelines, performance and structure checks, session continuity.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "misteryo",
+      "source": "./",
+      "description": "Hurricane workflow plugin: /start, /hurricane, /perf-check, /structure-check, /compress-context, /scan-tokens, /extract-design, /capture-session, /resume, /abracadabra + stack-aware performance-reviewer agent.",
+      "version": "0.1.0",
+      "category": "workflow",
+      "keywords": ["workflow", "performance", "code-review", "onboarding", "session"]
+    }
+  ]
+}

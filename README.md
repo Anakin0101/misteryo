@@ -9,11 +9,12 @@ Works across any stack — React, React Native, Next.js, Vue, Go, Python, Rust. 
 ## ⚡ Quick start (2 minutes)
 
 ```
-1. Install:            /plugin install AkakiNeparidze/misteryo
-2. First thing:        /start
-3. Your first task:    /hurricane
-4. Before commit:      /perf-check
-5. Session ending:     /capture-session
+1. Add marketplace:    /plugin marketplace add Anakin0101/misteryo
+2. Install plugin:     /plugin install misteryo@misteryo
+3. First thing:        /start
+4. Your first task:    /hurricane
+5. Before commit:      /perf-check
+6. Session ending:     /capture-session
 ```
 
 **Everything else is optional.**
