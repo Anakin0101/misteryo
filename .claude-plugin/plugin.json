@@ -1,0 +1,18 @@
+{
+  "name": "misteryo",
+  "version": "0.1.0",
+  "description": "Hurricane — opinionated Claude Code workflow plugin. Sets up project conventions, runs full dev pipelines (brainstorm → plan → code → review → perf), and enforces structure/performance standards defined in CLAUDE.md.",
+  "author": {
+    "name": "Akaki Neparidze"
+  },
+  "homepage": "https://github.com/AkakiNeparidze/misteryo",
+  "repository": "https://github.com/AkakiNeparidze/misteryo",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "workflow",
+    "performance",
+    "code-review"
+  ]
+}
